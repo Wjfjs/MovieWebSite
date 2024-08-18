@@ -1,0 +1,29 @@
+body {
+	width: 50%;
+	margin: 100px auto;
+}
+.title {
+	text-align: center;
+	margin-bottom: 50px;
+	border: 1px solid black;
+	width: 248px;
+	height: 62.438;
+}
+.login {
+	width: 228px;
+	height: 200px;
+	border: 1px solid black;
+	padding: 10px 10px;
+	text-align: center;
+}
+#ip {
+	margin-left: 10px;
+	float: left;
+}
+.button {
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+input {
+	margin: 10px 0px;
+}

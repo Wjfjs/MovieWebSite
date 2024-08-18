@@ -1,0 +1,198 @@
+.UPUP {
+	position: fixed;
+	top: 90%;
+	right: 0;
+	text-align: center;
+	margin-right: 30px;
+	padding: 10px;
+	background-color: #f3f3f3;
+}
+.MAIN {
+	margin: 21px 0px;
+}
+.title {
+	text-align: center;
+	font-size: 3em;
+	
+}
+.SIGNUP {
+	display: inline-block;
+	float: right;
+	margin-right: 25px;
+	text-decoration: none;
+	color: black;
+}
+.LOGIN {
+	display: inline-block;
+	float: right;
+	margin-right: 17px;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+body {
+	height: auto;
+	width: 1310px;
+	margin: 0 auto;
+}
+header section footer {
+	position: absolute;
+}
+span#sub {
+	position: absolute;
+	font-weight: bold;
+	font-size: 23px;
+}
+span#go {
+	float: right;
+	font-size: 16px;
+	margin-right: 10px;
+}
+.nav1 {
+	display: block;
+	background-color: lightsteelblue;
+	height: 60px;
+	margin-bottom: 70px;
+}
+.serch {
+	margin: 14px 17px;
+	width: 220px;
+	float: left;
+}
+.serch input {
+	width: 100%;
+	border: 1px solid gray;
+	border-radius: 8px;
+	padding: 6px 10px;
+	font-size: 12px;
+}
+.serch:hover {
+	margin-top: 14px;
+	margin-left: 17px;
+	width: 410px;
+	float: left;
+}
+ul.TopMenu {
+	position: absolute;
+	margin-left: 775px;
+	margin-top: 13px;
+	margin-bottom: 13px;
+	width: 530px;
+	float: right;
+	list-style: none;
+	padding: 0px;
+	font-size: 19px;
+	font-weight: bold;
+}
+ul.TopMenu > li {
+	display: inline-block;
+	width: 100px;
+	padding: 5px 0px;
+	text-align: center;
+	position: relative;
+}
+.link:hover {
+	border: 1px solid black;
+	background: white;
+}
+ul.TopMenu > li ul.submenu {
+	padding: 0px;
+	display: none;
+	position: absolute;
+	z-index: 3;
+	top: 41px;
+	right: 0px;
+	font-size: 12px;
+	margin-top: 5px;
+	float: left;
+}
+ul.TopMenu > li:hover ul.submenu {
+	border: 1px solid black;
+	display: block;
+}
+ul.TopMenu > li ul.submenu > li {
+	display: inline-block;
+	width: 150px;
+	padding: 5px 10px;
+	background: lightgray;
+	border: none;
+	text-align: left;
+}
+ul.TopMenu > li ul.submenu > div {
+	list-style: none;
+	display: inline-block;
+	width: 150px;
+	padding: 5px 10px;
+	background: lightgray;
+	border: none;
+	text-align: left;
+}
+.movieSiteMain {
+	display: block;
+	height: 600px;
+	margin-bottom: 20px;
+}
+.movieSiteMain div {
+	margin-right: 6px;
+	margin-left: 6px;
+}
+.movieSiteMain ul {
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	height: 450px;
+	padding: 2px 20px;
+	margin-bottom: 100px;
+}
+.movieSiteMain ul li {
+	display: block;
+	position: relative;
+	height: 363px;
+	width: auto;
+	float: left;
+	margin: 0px 30px;
+}
+.movieSiteMain li div {
+	text-align: center;
+}
+.movieSiteMain img {
+	position: relative;
+	width: 253.472px;
+	height: 362.986px;
+}
+.imgSite img {
+	position: relative;
+	width: 40px;
+	height: 40px;
+}
+.imgSite a {
+	margin: 0px 25px;
+}
+.movieSiteMain #last {
+	display: block;
+	position: relative;
+	height: 363px;
+	width: 245px;
+	float: left;
+	margin-right: 0px;
+}
+.credit {
+	display: inline-block;
+	width: 1310px;
+	height: auto;
+	background-color: lightcoral;
+	clear: both;
+	padding: 4px;
+	text-align: left;
+	float: left;
+	margin-top: 200px;
+}
+#c1 {
+	display: inline-block;
+}
+#c2 {
+	display: inline-block;
+	text-align: right;
+	float: right;
+}
