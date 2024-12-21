@@ -1,5 +1,5 @@
 # MovieWebSite
-PHP, MySQL, 광주대학교 서버<br>
+HTML, JS<br>
 2학년 웹 기말 프로젝트<br><br>
 
 # project & 자료
