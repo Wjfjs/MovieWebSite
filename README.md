@@ -2,6 +2,8 @@
 HTML, JS<br>
 2학년 웹 기말 프로젝트<br><br>
 
+MovieWebSite/기말 레포트 MIS 설명문.pptx
+
 # project & 자료
 PHP, ORACLE DB, 광주대학교 서버<br>
 3학년 DB기말 프로젝트<br><br>
