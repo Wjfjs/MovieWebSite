@@ -2,7 +2,7 @@
 HTML, JS<br>
 2학년 웹 기말 프로젝트<br><br>
 
-<p align="center"> <img src="./자료/MovieWebSite_설명/슬라이드1.png" width="900"> </p>
+<p align="center"> <img src="./자료/MovieWebSite_설명/슬라이드1.PNG" width="900"> </p>
 
 <p align="center"> <img src="./자료/MovieWebSite_설명/슬라이드2.png" width="900"> </p>
 
